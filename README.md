@@ -5,7 +5,8 @@ Zomato Data Exploration and Analysis with SQL
 
 
 
-![Zomato Logo](images/zomato-logo.png)
+![image](https://github.com/user-attachments/assets/d5ffe87d-897a-41d8-91d2-6803f7842c6c)
+
 
 
 
